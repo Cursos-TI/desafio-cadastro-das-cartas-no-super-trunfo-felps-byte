@@ -33,24 +33,13 @@
 
     // Detalhes das cartas de Super Trunfo
 
-    printf("Codigo da cidade:%s",codigo\n);
-    printf("Nome da cidade:%s",nome\n);
-    printf("Área da cidade:%f",Area\n);
-    printf("PIB da cidade:%f",PIB\n);
-    printf("População da cidade:%f",Populacao\n);
-    printf("Pontos turísticos:%d",Pontos_t);
+    printf("Codigo da cidade:%s,codigo\n");
+    printf("Nome da cidade:%s,nome\n");
+    printf("Área da cidade:%f,Area\n");
+    printf("PIB da cidade:%f,PIB\n");
+    printf("População da cidade:%f,Populacao\n");
+    printf("Pontos turísticos:%d,Pontos_t");
     
-
-
-
-
-
-
-
-
-
-
-
 
 
 
